@@ -1,0 +1,4 @@
+crop: Soyabean
+state: Maharashtra
+mandis: []        # fill after you see the coverage table (python -m src.cleaning)
+start_date: 2018-01-01
