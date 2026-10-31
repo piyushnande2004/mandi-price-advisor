@@ -1,4 +1,5 @@
 # Mandi Price Forecaster + Sell/Hold Advisor
+> Status: work in progress. Results use synthetic sample data for pipeline testing; real Agmarknet/CEDA data is being integrated.
 
 Forecasts Maharashtra mandi crop prices (starting with soybean) and advises whether to sell now or hold.
 
